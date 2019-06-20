@@ -29,7 +29,7 @@ public class NumberBeforeAfter {
 			System.out.println("Number left: " + n);
 		}
 		
-		
+		System.out.println("Obrigado! ");
 		sc.close();
 
 	}
