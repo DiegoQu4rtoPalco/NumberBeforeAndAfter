@@ -14,6 +14,7 @@ public class NumberBeforeAfter {
 		
 		int n;
 		
+		System.out.print("Digite o valor do numero: ");
 		n = sc.nextInt();
 		
 		if (n == n) {
